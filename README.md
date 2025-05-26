@@ -3,7 +3,8 @@
 ## 1. Open in Google Colab
 
 * Go to [Google Colab](https://colab.research.google.com/).
-* Select **File > Open notebook > GitHub** and paste your repository URL. For private repositories, ensure you're logged into GitHub.
+* Select **File > Open notebook > GitHub** and paste this repository URL.
+* Check the private repositories checkbox, and ensure you're logged into GitHub.
 
 ## 2. Add Dataset Shortcut
 
